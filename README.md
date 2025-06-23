@@ -33,7 +33,63 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" title="MetaMask"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/></a>
+  <!-- Skills anteriores -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" title="MetaMask"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
+  </a>
+  <a href="https://apple.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
+  </a>
+
+  <!-- Novos skills -->
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/wireshark.png" width="36" height="36" alt="Wireshark" title="Wireshark"/>
+  </a>
+  <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/ibm.png" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
+  </a>
+  <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/ibm.png" width="36" height="36" alt="IBM Watson Assistant" title="IBM Watson Assistant"/>
+  </a>
+  <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36" height="36" alt="Excel" title="Excel"/>
+  </a>
+  <a href="https://www.microsoft.com/word" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="36" height="36" alt="Word" title="Word"/>
+  </a>
+  <a href="https://www.microsoft.com/powerpoint" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36" height="36" alt="PowerPoint" title="PowerPoint"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" title="Power BI"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="36" height="36" alt="SQL" title="SQL"/>
+  </a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/cisco.png" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
+  </a>
+  <a href="https://docs.python.org/3/library/idle.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/python.png" width="36" height="36" alt="IDLE" title="IDLE"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/nmap-logo-64x64.png" width="36" height="36" alt="Nmap" title="Nmap"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/canva.png" width="36" height="36" alt="Canva" title="Canva"/>
+  </a>
 </p>
 
 
