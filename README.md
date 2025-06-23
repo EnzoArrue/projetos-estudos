@@ -47,18 +47,15 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
   </a>
-  <a href="https://apple.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
+
+  <!-- IBM Watson Studio (movido aqui do lugar original do MacOS) -->
+  <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
   </a>
 
   <!-- Substituído: Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" width="36" height="36" alt="Wireshark" title="Wireshark"/>
-  </a>
-
-  <!-- IBM Watson Studio (reordenado após Wireshark) -->
-  <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
   </a>
 
   <!-- IBM Watson Assistant -->
@@ -105,6 +102,11 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/canva.png" width="36" height="36" alt="Canva" title="Canva"/>
+  </a>
+
+  <!-- MacOS (movido para cá, onde estava o IBM Watson Studio) -->
+  <a href="https://apple.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
   </a>
 </p>
 
