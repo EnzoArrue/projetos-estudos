@@ -83,10 +83,11 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="36" height="36" alt="SQL" title="SQL"/>
   </a>
 
-  <!-- Cisco Packet Tracer (substituído) -->
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Cisco_logo.svg" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
-  </a>
+<!-- Cisco Packet Tracer (com ícone funcional SVG) -->
+<a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="60" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
+</a>
+
 
   <!-- IDLE (Python) -->
   <a href="https://docs.python.org/3/library/idle.html" target="_blank" rel="noreferrer">
