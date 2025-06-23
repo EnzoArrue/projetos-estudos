@@ -107,8 +107,8 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   <a href="https://apple.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
   </a>
-  <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="36" height="36" alt="Microsoft" title="Microsoft"/>
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="36" height="36" alt="Windows 11" title="Windows 11"/>
 </a>
 </p>
 
