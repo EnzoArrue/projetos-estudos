@@ -31,60 +31,83 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 ### Skills
 
-## Skills
+<p align="left">
+  <!-- Ícones existentes -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" title="MetaMask"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
+  </a>
+  <a href="https://apple.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
+  </a>
 
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <!-- Substituído: Wireshark -->
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" width="36" height="36" alt="Wireshark" title="Wireshark"/>
+  </a>
 
-<!-- Shell -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <!-- IBM Watson Studio (reordenado após Wireshark) -->
+  <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
+  </a>
 
-<!-- VS Code -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <!-- IBM Watson Assistant -->
+  <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Assistant" title="IBM Watson Assistant"/>
+  </a>
 
-<!-- Kali Linux -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="40"/>
+  <!-- Microsoft Office -->
+  <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36" height="36" alt="Excel" title="Excel"/>
+  </a>
+  <a href="https://www.microsoft.com/word" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="36" height="36" alt="Word" title="Word"/>
+  </a>
+  <a href="https://www.microsoft.com/powerpoint" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36" height="36" alt="PowerPoint" title="PowerPoint"/>
+  </a>
 
-<!-- Linux -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" title="Power BI"/>
+  </a>
 
-<!-- macOS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="36" height="36" alt="SQL" title="SQL"/>
+  </a>
 
-<!-- Wireshark (Corrigido) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Wireshark_Logo.svg" width="40"/>
+  <!-- Cisco Packet Tracer (substituído) -->
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Cisco_logo.svg" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
+  </a>
 
-<!-- IBM Watson Studio -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/IBM_logo_in.jpg" width="40"/>
+  <!-- IDLE (Python) -->
+  <a href="https://docs.python.org/3/library/idle.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/python.png" width="36" height="36" alt="IDLE" title="IDLE"/>
+  </a>
 
-<!-- Excel -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40"/>
+  <!-- Nmap (substituído) -->
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/trimstray/nginx-admins-handbook/master/images/tools/nmap.png" width="36" height="36" alt="Nmap" title="Nmap"/>
+  </a>
 
-<!-- Word -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_Word_2013_logo.svg" width="40"/>
-
-<!-- PowerPoint -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_(2019–present).svg" width="40"/>
-
-<!-- Power BI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-
-<!-- SQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-<!-- Cisco Packet Tracer (Corrigido) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo_blue_2016.svg" width="40"/>
-
-<!-- Nmap (Corrigido) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_Logo.svg" width="40"/>
-
-<!-- IDLE (Python já representado) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-<!-- Canva -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40"/>
-
-
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/canva.png" width="36" height="36" alt="Canva" title="Canva"/>
+  </a>
+</p>
 
 ### Socials
 
