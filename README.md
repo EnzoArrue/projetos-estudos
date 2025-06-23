@@ -6,12 +6,19 @@ Desde cedo, a tecnologia despertou em mim mais do que interesse, despertou prop�
 Portfólio aborda:
 
 \- 🔐 Segurança da Informação
+
 \- 👩🏻‍💻 Programação
+
 \- 🤖 Inteligência Artificial
+
 \- 📊 Power BI
+
 \- 📈 Excel
+
 \- 📘 Materiais Teóricos
+
 \- 👷🏻 Projetos Práticos
+
 \- 🧪 Laboratórios 
 e muito mais...
 
