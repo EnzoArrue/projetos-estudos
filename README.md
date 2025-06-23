@@ -131,11 +131,21 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 
 ### Badges
-[![Certificado IBM Watson Studio](https://img.shields.io/badge/Certificado-IBM%20Watson%20Studio-red)](https://www.credly.com/earner/earned/badge/9ad91c0d-bdd8-4f46-ae39-1470a3ccc053)
+[![Certificado AI Fundamentals (IBM)](https://img.shields.io/badge/Certificado-AI%20Fundamentals%20(IBM)-red)](https://www.credly.com/badges/8d57da6c-6bc0-4a27-8081-54b9091056c7/public_url)
 
-[![Certificado IBM Watson Assistant](https://img.shields.io/badge/Certificado-IBM%20Watson%20Assistant-orange)](https://www.credly.com/earner/earned/badge/8d57da6c-6bc0-4a27-8081-54b9091056c7)
+[![Certificado AI with Capstone Project (IBM)](https://img.shields.io/badge/Certificado-AI%20with%20Capstone%20Project%20(IBM)-orange)](https://www.credly.com/badges/9ad91c0d-bdd8-4f46-ae39-1470a3ccc053/public_url)
 
+[![Certificado Ciência da Computação Python (USP-IME)](https://img.shields.io/badge/Certificado-Ciência%20da%20Computação%20Python%20(USP--IME)-red)](https://coursera.org/share/ca363d9bcd5e196b9166638e8abdfa6f)
 
+[![Certificado Networking Basics (CISCO)](https://img.shields.io/badge/Certificado-Networking%20Basics%20(CISCO)-orange)](https://www.credly.com/badges/d3685178-c1ea-42a5-a125-8e0304fc35cd/public_url)
+
+[![Certificado Introdução a Cibersegurança (CISCO)](https://img.shields.io/badge/Certificado-Introdução%20a%20Cibersegurança%20(CISCO)-red)](https://www.credly.com/badges/eec84f93-6297-4266-9249-2426a7fc812c/public_url)
+
+[![Certificado Endereçamento de IPv4 (Curso em Vídeo)](https://img.shields.io/badge/Certificado-Endereçamento%20de%20IPv4%20(Curso%20em%20Vídeo)-orange)](https://www.cursoemvideo.com/certificates/certificado/?course_id=167663&cert-nonce=2e9b641622)
+
+[![Certificado Networking Devices and Initial Configuration (CISCO)](https://img.shields.io/badge/Certificado-Networking%20Devices%20and%20Initial%20Configuration%20(CISCO)-red)](https://www.credly.com/badges/ff5e9779-9e3e-47e6-adbd-403426d058f7/public_url)
+
+[![Certificado Excel Básico (SENAI-SP)](https://img.shields.io/badge/Certificado-Excel%20Básico%20(SENAI--SP)-orange)](https://drive.google.com/file/d/1ZLUrbfFv2zMJhlFTZ5BbAPNaJ9iPgXb5/view?usp=drive_link)
 
 <b>My GitHub Stats</b>
 
