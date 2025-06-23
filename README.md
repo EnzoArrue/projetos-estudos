@@ -151,8 +151,6 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 <a href="http://www.github.com/EnzoArrue"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoArrue&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/EnzoArrue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoArrue&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/EnzoArrue/projetos-estudos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoArrue&repo=projetos-estudos&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
