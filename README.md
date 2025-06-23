@@ -30,7 +30,6 @@ Aqui terá um pouco de tudo: Desde scripts simples e anotações teóricas até 
 Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos meios de contato e, quem sabe, também se inspirar. 💡
 
 ### Skills
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
@@ -52,7 +51,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   </a>
 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/wireshark.png" width="36" height="36" alt="Wireshark" title="Wireshark"/>
+    <img src="https://www.wireshark.org/assets/img/wireshark-logo-square.png" width="36" height="36" alt="Wireshark" title="Wireshark"/>
   </a>
 
   <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
@@ -82,7 +81,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   </a>
 
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/cisco-ios.png" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
+    <img src="https://www.cisco.com/etc/designs/cisco/images/icon-cisco.svg" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
   </a>
 
   <a href="https://docs.python.org/3/library/idle.html" target="_blank" rel="noreferrer">
@@ -90,7 +89,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   </a>
 
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-Nmap-is-a-free-and-open-source-utility-for-network-discovery-security-auditing-logo-shadow-tal-revivo.png" width="36" height="36" alt="Nmap" title="Nmap"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nmap_logo.svg/1200px-Nmap_logo.svg.png" width="36" height="36" alt="Nmap" title="Nmap"/>
   </a>
 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
