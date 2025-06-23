@@ -13,13 +13,13 @@ Este diretório reúne conteúdos, anotações, projetos e laboratórios relacio
 -Desenvolver boas práticas em infraestrutura, redes, roteamento e protocolos;
 -Explorar o uso de soluções SIEM para monitoramento e resposta a incidentes;
 -Uso de ferramentas auxiliares para análise, ataque e defesa (Wireshark, KaliLinux, VisualStudio...);
--Prática em ambientes simulados, mas realistas;
+-Prática em ambientes simulados realistas;
 -Dominio e conhecimento sobre Linux e Windows; 
 -Consolidar conhecimentos por meio de projetos, anotações e laboratórios.
 
 ---
 
-## 🔒 Tópicos de Estudo - Apenas uma visão mais superficial (Possui além ou que ainda não foram abordados a fundo)
+## 🔒 Tópicos de Estudo - Apenas uma visão mais superficial 
 
 - **Princípios da Segurança da Informação**
   - Confidencialidade, Integridade, Disponibilidade (Tríade CIA)
@@ -54,12 +54,6 @@ Este diretório reúne conteúdos, anotações, projetos e laboratórios relacio
   - Cifras clássicas e modernas
   - Criptografia simétrica vs assimétrica
   - Hashes e assinaturas digitais
-
- - **Ferramentas e Ambientes**
-  - Kali Linux, Parrot OS
-  - Wireshark, Aircrack-ng, John the Ripper, Hydra
-  - VirtualBox, VMWare, Metasploitable, DVWA
-entre outros...
 
 ## 👨‍💻 Observações
 
