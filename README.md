@@ -31,9 +31,8 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 ### Skills
 
-
 <p align="left">
-  <!-- Skills anteriores -->
+  <!-- Ícones originais -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
   </a>
@@ -53,15 +52,15 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
   </a>
 
-  <!-- Novos skills -->
+  <!-- Corrigidos e novos ícones -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/wireshark.png" width="36" height="36" alt="Wireshark" title="Wireshark"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-wireshark-is-a-free-and-open-source-packet-analyzer-logo-color-tal-revivo.png" width="36" height="36" alt="Wireshark" title="Wireshark"/>
   </a>
   <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/ibm.png" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
   </a>
   <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/ibm.png" width="36" height="36" alt="IBM Watson Assistant" title="IBM Watson Assistant"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Assistant" title="IBM Watson Assistant"/>
   </a>
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36" height="36" alt="Excel" title="Excel"/>
@@ -79,7 +78,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="36" height="36" alt="SQL" title="SQL"/>
   </a>
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/cisco.png" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-cisco-network-technology-flat-flat-juicy-fish.png" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
   </a>
   <a href="https://docs.python.org/3/library/idle.html" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/python.png" width="36" height="36" alt="IDLE" title="IDLE"/>
