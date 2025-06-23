@@ -6,20 +6,14 @@ Desde cedo, a tecnologia despertou em mim mais do que interesse, despertou prop�
 Portfólio aborda:
 
 \- 🔐 Segurança da Informação
-
 \- 👩🏻‍💻 Programação
-
 \- 🤖 Inteligência Artificial
-
 \- 📊 Power BI
-
 \- 📈 Excel
-
 \- 📘 Materiais Teóricos
-
 \- 👷🏻 Projetos Práticos
-
-\- 🧪 Laboratórios e muito mais...
+\- 🧪 Laboratórios 
+e muito mais...
 
 Esse repositório nasceu com o intuito de ser um espaço pessoal de aprendizado, onde guardo cada projeto, experimento e descoberta que fizeram parte da minha jornada pela busca de novos conhecimentos e horas dedicadas a uma evolução tanto pessoal quanto profissional.
 
