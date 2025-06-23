@@ -95,9 +95,8 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   </a>
 
 <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-  <img src="https://nmap.org/dist/nmap-logo.svg" width="36" height="36" alt="Nmap" title="Nmap"/>
+  <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" width="36" height="36" alt="Nmap" title="Nmap"/>
 </a>
-
 
   <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
