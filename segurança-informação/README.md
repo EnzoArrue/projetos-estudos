@@ -1,6 +1,6 @@
 🔐 Segurança da Informação & Cybersecurity
 
-Este diretório reúne conteúdos, anotações, projetos e laboratórios relacionados à **Segurança da Informação** e à **Cibersegurança**, com foco em fundamentos, boas práticas, ataques e defesas, análise de vulnerabilidades, testes de intrusão (Pentest), normas e ferramentas modernas.
+Este diretório reúne conteúdos, anotações, projetos e laboratórios relacionados à **Segurança da Informação** e à **Cibersegurança**, com foco em fundamentos, boas práticas, ataques e defesas, análise de vulnerabilidades, testes de penetração (Pentest), normas e ferramentas modernas.
 
 ---
 
