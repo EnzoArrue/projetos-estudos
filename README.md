@@ -18,6 +18,3 @@ Como já falado, voltado principalmente para a Segurança da Informação e Cybe
 
 Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos meios de contato e, quem sabe, também se inspirar. 💡
 
-Instagram: @ez.arrue_ 
-Email: enzoarruejuanfuso@gmail.com
-Linkedin: 
