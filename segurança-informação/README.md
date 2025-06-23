@@ -6,15 +6,15 @@ Este diretório reúne conteúdos, anotações, projetos e laboratórios relacio
 
 ## 📌 Objetivos
 
--Compreender os fundamentos da Segurança da Informação e da Cibersegurança.
--Estudar normas e frameworks relevantes (ISO/IEC 27001, NIST, LGPD, etc.).
--Identificar e analisar ameaças, vulnerabilidades e ataques cibernéticos.
--Aplicar técnicas e ferramentas de defesa, análise forense e testes de intrusão.
--Desenvolver boas práticas em infraestrutura, redes, roteamento e protocolos.
--Explorar o uso de soluções SIEM para monitoramento e resposta a incidentes.
--Uso de ferramentas auxiliares para análise, ataque e defesa (Wireshark, KaliLinux, VisualStudio...).
--Praticar em ambientes simulados com foco em ética e responsabilidade.
--Dominio e conhecimento sobre Linux e Windows, 
+-Compreender os fundamentos da Segurança da Informação e da Cibersegurança;
+-Estudar normas e frameworks relevantes (ISO/IEC 27001, NIST, LGPD, etc.);
+-Identificar e analisar ameaças, vulnerabilidades e ataques cibernéticos;
+-Aplicar técnicas e ferramentas de defesa, análise forense e testes de intrusão;
+-Desenvolver boas práticas em infraestrutura, redes, roteamento e protocolos;
+-Explorar o uso de soluções SIEM para monitoramento e resposta a incidentes;
+-Uso de ferramentas auxiliares para análise, ataque e defesa (Wireshark, KaliLinux, VisualStudio...);
+-Prática em ambientes simulados, mas realistas;
+-Dominio e conhecimento sobre Linux e Windows; 
 -Consolidar conhecimentos por meio de projetos, anotações e laboratórios.
 
 ---
@@ -40,7 +40,7 @@ Este diretório reúne conteúdos, anotações, projetos e laboratórios relacio
   - Ataques à rede (DDoS, spoofing, sniffing)
   - Exploração de falhas (Ex: buffer overflow, SQL injection)
 
-- **Pentest e Testes de Invasão**
+- **Pentest/Testes de Invasão**
   - Reconhecimento e varredura (nmap, whois, dnsenum)
   - Exploração (Metasploit, Burp Suite)
   - Pós-exploração e escalonamento de privilégios
