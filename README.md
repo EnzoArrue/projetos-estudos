@@ -31,6 +31,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 ### Skills
 <p align="left">
+  <!-- Ícones existentes -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
   </a>
@@ -50,18 +51,22 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/>
   </a>
 
+  <!-- Substituído: Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.wireshark.org/assets/img/wireshark-logo-square.png" width="36" height="36" alt="Wireshark" title="Wireshark"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" width="36" height="36" alt="Wireshark" title="Wireshark"/>
   </a>
 
+  <!-- IBM Watson Studio (reordenado após Wireshark) -->
   <a href="https://www.ibm.com/cloud/watson-studio" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
   </a>
 
+  <!-- IBM Watson Assistant -->
   <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Assistant" title="IBM Watson Assistant"/>
   </a>
 
+  <!-- Microsoft Office -->
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36" height="36" alt="Excel" title="Excel"/>
   </a>
@@ -72,26 +77,32 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36" height="36" alt="PowerPoint" title="PowerPoint"/>
   </a>
 
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" title="Power BI"/>
   </a>
 
+  <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="36" height="36" alt="SQL" title="SQL"/>
   </a>
 
+  <!-- Cisco Packet Tracer (substituído) -->
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-    <img src="https://www.cisco.com/etc/designs/cisco/images/icon-cisco.svg" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Cisco_logo.svg" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer"/>
   </a>
 
+  <!-- IDLE (Python) -->
   <a href="https://docs.python.org/3/library/idle.html" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/python.png" width="36" height="36" alt="IDLE" title="IDLE"/>
   </a>
 
+  <!-- Nmap (substituído) -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nmap_logo.svg/1200px-Nmap_logo.svg.png" width="36" height="36" alt="Nmap" title="Nmap"/>
+    <img src="https://raw.githubusercontent.com/trimstray/nginx-admins-handbook/master/images/tools/nmap.png" width="36" height="36" alt="Nmap" title="Nmap"/>
   </a>
 
+  <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/canva.png" width="36" height="36" alt="Canva" title="Canva"/>
   </a>
