@@ -94,10 +94,10 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://img.icons8.com/color/48/python.png" width="36" height="36" alt="IDLE" title="IDLE"/>
   </a>
 
-  <!-- Nmap (substituído) -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/trimstray/nginx-admins-handbook/master/images/tools/nmap.png" width="36" height="36" alt="Nmap" title="Nmap"/>
-  </a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://nmap.org/dist/nmap-logo.svg" width="36" height="36" alt="Nmap" title="Nmap"/>
+</a>
+
 
   <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
