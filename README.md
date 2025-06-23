@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Enzo Arrue
+Olá! Meu nome é Enzo Arrue ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
 Desde cedo, a tecnologia despertou em mim mais do que interesse, despertou propósito. Sou movido pela curiosidade, responsabilidade e por um forte compromisso com o aprendizado prático. Atualmente curso Segurança da Informação, área que escolhi por estar alinhada aos meus valores de lidar com dados sensíveis exigindo um alto padrão ético. No entanto, não me limito a isso: busco constantemente aprimoramento em temas como Engenharia de Software, Programação, Ciência de Dados e Ciência da Computação, com o objetivo de ser um profissional o mais completo possível.
