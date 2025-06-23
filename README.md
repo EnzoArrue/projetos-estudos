@@ -53,10 +53,9 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Watson Studio" title="IBM Watson Studio"/>
   </a>
 
-  <!-- Substituído: Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" width="36" height="36" alt="Wireshark" title="Wireshark"/>
-  </a>
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" width="36" height="36" alt="Kali Linux" title="Kali Linux"/>
+</a>
 
   <!-- IBM Watson Assistant -->
   <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank" rel="noreferrer">
