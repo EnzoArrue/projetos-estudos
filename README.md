@@ -131,8 +131,8 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 
 ### Badges
+[![Certificado IBM Watson Studio](https://img.shields.io/badge/Certificado-IBM%20Watson%20Studio-blue)](https://www.credly.com/earner/earned/badge/9ad91c0d-bdd8-4f46-ae39-1470a3ccc053)
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/EnzoArrue"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoArrue&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
