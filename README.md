@@ -54,7 +54,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
   </a>
 
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" width="36" height="36" alt="Kali Linux" title="Kali Linux"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="36" height="36" alt="Kali Linux" title="Kali Linux"/>
 </a>
 
   <!-- IBM Watson Assistant -->
