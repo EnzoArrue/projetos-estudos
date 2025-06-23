@@ -20,6 +20,7 @@ Portfólio aborda:
 \- 👷🏻 Projetos Práticos
 
 \- 🧪 Laboratórios 
+
 e muito mais...
 
 Esse repositório nasceu com o intuito de ser um espaço pessoal de aprendizado, onde guardo cada projeto, experimento e descoberta que fizeram parte da minha jornada pela busca de novos conhecimentos e horas dedicadas a uma evolução tanto pessoal quanto profissional.
