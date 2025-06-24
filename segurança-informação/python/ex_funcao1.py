@@ -1,3 +1,4 @@
+#Crie um programa que receba três números reais digitados pelo usuário e calcule a média aritmética entre eles.
 def media(n1,n2,n3):
     return (n1+n2+n3)/3
 
