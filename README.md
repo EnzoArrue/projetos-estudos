@@ -147,10 +147,6 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 [![Certificado Excel Básico (SENAI-SP)](https://img.shields.io/badge/Certificado-Excel%20Básico%20(SENAI--SP)-orange)](https://drive.google.com/file/d/1ZLUrbfFv2zMJhlFTZ5BbAPNaJ9iPgXb5/view?usp=drive_link)
 
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/EnzoArrue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoArrue&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <a href="https://github.com/EnzoArrue/projetos-estudos">
