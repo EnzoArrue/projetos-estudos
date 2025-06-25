@@ -147,6 +147,8 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 [![Certificado Excel Básico (SENAI-SP)](https://img.shields.io/badge/Certificado-Excel%20Básico%20(SENAI--SP)-orange)](https://drive.google.com/file/d/1ZLUrbfFv2zMJhlFTZ5BbAPNaJ9iPgXb5/view?usp=drive_link)
 
+![Snake animation](https://github.com/EnzoArrue/EnzoArrue/blob/output/github-contribution-grid-snake.svg)
+
 <b>Top Repositories</b>
 
 <a href="https://github.com/EnzoArrue/projetos-estudos">
