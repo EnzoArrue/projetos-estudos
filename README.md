@@ -135,8 +135,6 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 [![Certificado AI with Capstone Project (IBM)](https://img.shields.io/badge/Certificado-AI%20with%20Capstone%20Project%20(IBM)-orange)](https://www.credly.com/badges/9ad91c0d-bdd8-4f46-ae39-1470a3ccc053/public_url)
 
-[![Certificado (Udemy)](https://img.shields.io/badge/Certificado-Power%20BI%20Avançado-red)](https://www.udemy.com/certificate/UC-51eead6f-e72d-43e6-8a80-0633b2a09530)
-
 [![Certificado Ciência da Computação Python (USP-IME)](https://img.shields.io/badge/Certificado-Ciência%20da%20Computação%20Python%20(USP--IME)-red)](https://coursera.org/share/ca363d9bcd5e196b9166638e8abdfa6f)
 
 [![Certificado Networking Basics (CISCO)](https://img.shields.io/badge/Certificado-Networking%20Basics%20(CISCO)-orange)](https://www.credly.com/badges/d3685178-c1ea-42a5-a125-8e0304fc35cd/public_url)
@@ -148,6 +146,8 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 [![Certificado Networking Devices and Initial Configuration (CISCO)](https://img.shields.io/badge/Certificado-Networking%20Devices%20and%20Initial%20Configuration%20(CISCO)-red)](https://www.credly.com/badges/ff5e9779-9e3e-47e6-adbd-403426d058f7/public_url)
 
 [![Certificado Excel Básico (SENAI-SP)](https://img.shields.io/badge/Certificado-Excel%20Básico%20(SENAI--SP)-orange)](https://drive.google.com/file/d/1ZLUrbfFv2zMJhlFTZ5BbAPNaJ9iPgXb5/view?usp=drive_link)
+
+[![Certificado (Udemy)](https://img.shields.io/badge/Certificado-Power%20BI%20Avançado-red)](https://www.udemy.com/certificate/UC-51eead6f-e72d-43e6-8a80-0633b2a09530)
 
 <b>Top Repositories</b>
 
