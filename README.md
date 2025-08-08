@@ -135,7 +135,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 [![Certificado AI with Capstone Project (IBM)](https://img.shields.io/badge/Certificado-AI%20with%20Capstone%20Project%20(IBM)-orange)](https://www.credly.com/badges/9ad91c0d-bdd8-4f46-ae39-1470a3ccc053/public_url)
 
-[![Certificado Udemy](https://img.shields.io/badge/Certificado-Udemy-blue)](https://www.udemy.com/certificate/UC-51eead6f-e72d-43e6-8a80-0633b2a09530/)
+[![Certificado (Udemy)](https://img.shields.io/badge/Certificado-Power%20BI%20Avançado-red)](https://www.udemy.com/certificate/UC-51eead6f-e72d-43e6-8a80-0633b2a09530)
 
 [![Certificado Ciência da Computação Python (USP-IME)](https://img.shields.io/badge/Certificado-Ciência%20da%20Computação%20Python%20(USP--IME)-red)](https://coursera.org/share/ca363d9bcd5e196b9166638e8abdfa6f)
 
