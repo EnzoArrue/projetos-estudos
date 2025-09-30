@@ -149,7 +149,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 [![Certificado (Udemy)](https://img.shields.io/badge/Certificado-Power%20BI%20Avançado-red)](https://www.udemy.com/certificate/UC-51eead6f-e72d-43e6-8a80-0633b2a09530)
 
-[![SWITCHING & ROUTING - LIDERADO POR MARIO LONGATO (FATEC-SCS)](https://img.shields.io/badge/Certificado-SWITCHING%20&%20ROUTING-orange)]
+![SWITCHING & ROUTING - LIDERADO POR MARIO LONGATO (FATEC-SCS)](https://img.shields.io/badge/Certificado-SWITCHING%20&%20ROUTING%20(Liderado por Mário Longato - Fatec SCS)-orange)
 
 <b>Top Repositories</b>
 
