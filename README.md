@@ -145,7 +145,7 @@ Sinta-se à vontade para explorar, aprender junto comigo, fazer perguntas nos me
 
 [![Certificado Networking Devices and Initial Configuration (CISCO)](https://img.shields.io/badge/Certificado-Networking%20Devices%20and%20Initial%20Configuration%20(CISCO)-red)](https://www.credly.com/badges/ff5e9779-9e3e-47e6-adbd-403426d058f7/public_url)
 
-[![Certificado Excel Básico (SENAI-SP)](https://img.shields.io/badge/Certificado-Excel%20Básico%20(SENAI--SP)-orange)]([https://drive.google.com/file/d/1ZLUrbfFv2zMJhlFTZ5BbAPNaJ9iPgXb5/view?usp=drive_link](https://www.sp.senai.br/consulta-certificado?qrcode=00025597/7834371))
+[![Certificado Excel Básico (SENAI-SP)](https://img.shields.io/badge/Certificado-Excel%20Básico%20(SENAI--SP)-orange)](https://www.sp.senai.br/consulta-certificado?qrcode=00025597/7834371)
 
 [![Certificado (Udemy)](https://img.shields.io/badge/Certificado-Power%20BI%20Avançado-red)](https://www.udemy.com/certificate/UC-51eead6f-e72d-43e6-8a80-0633b2a09530)
 
